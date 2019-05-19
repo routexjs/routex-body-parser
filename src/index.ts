@@ -1,5 +1,6 @@
 import * as bodyParser from "body-parser";
 import { Handler, useExpress } from "routex";
+import "./types/http.d.ts";
 
 export function json(options?: bodyParser.OptionsJson): Handler {
   return useExpress(bodyParser.json(options));
