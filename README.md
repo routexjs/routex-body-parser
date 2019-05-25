@@ -2,7 +2,7 @@
 
 Body parsing for [Routex](https://www.npmjs.com/package/routex).
 
-[Documentation](https://routex.netlify.com/docs/packages/body-parser) - [GitHub](https://github.com/routexjs/routex-body-parser)
+[Documentation](https://routex.js.org/docs/packages/body-parser) - [GitHub](https://github.com/routexjs/routex-body-parser)
 
 ## Example
 

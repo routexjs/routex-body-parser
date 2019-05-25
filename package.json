@@ -6,7 +6,7 @@
     "body-parser",
     "routex"
   ],
-  "homepage": "https://routex.netlify.com/docs/packages/body-parser",
+  "homepage": "https://routex.js.org/docs/packages/body-parser",
   "repository": {
     "type": "git",
     "url": "https://github.com/routexjs/routex-body-parser"
