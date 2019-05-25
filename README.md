@@ -1,8 +1,8 @@
-# Routex Body Parser [![npm](https://img.shields.io/npm/v/@routex/body-parser.svg)](https://www.npmjs.com/package/@routex/body-parser) [![Travis CI](https://img.shields.io/travis/com/Cretezy/routex-body-parser.svg)](https://travis-ci.com/Cretezy/routex-body-parser) [![Codecov](https://img.shields.io/codecov/c/github/Cretezy/routex-body-parser.svg)](https://codecov.io/gh/Cretezy/routex-body-parser) [![Greenkeeper badge](https://badges.greenkeeper.io/Cretezy/routex-body-parser.svg)](https://greenkeeper.io/)
+# Routex Body Parser [![npm](https://img.shields.io/npm/v/@routex/body-parser.svg)](https://www.npmjs.com/package/@routex/body-parser) [![Travis CI](https://img.shields.io/travis/com/routexjs/routex-body-parser.svg)](https://travis-ci.com/routexjs/routex-body-parser) [![Codecov](https://img.shields.io/codecov/c/github/routexjs/routex-body-parser.svg)](https://codecov.io/gh/routexjs/routex-body-parser) [![Greenkeeper badge](https://badges.greenkeeper.io/routexjs/routex-body-parser.svg)](https://greenkeeper.io/)
 
 Body parsing for [Routex](https://www.npmjs.com/package/routex).
 
-[Documentation](https://routex.netlify.com/docs/packages/body-parser) - [GitHub](https://github.com/Cretezy/routex-body-parser)
+[Documentation](https://routex.netlify.com/docs/packages/body-parser) - [GitHub](https://github.com/routexjs/routex-body-parser)
 
 ## Example
 
@@ -38,4 +38,4 @@ The parsed body is available under `ctx.req.body`.
 
 We support all currently active and maintained [Node LTS versions](https://github.com/nodejs/Release), include current Node versions.
 
-Please file feature requests and bugs at the [issue tracker](https://github.com/Cretezy/routex-body-parser/issues).
+Please file feature requests and bugs at the [issue tracker](https://github.com/routexjs/routex-body-parser/issues).
