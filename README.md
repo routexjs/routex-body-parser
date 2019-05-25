@@ -1,4 +1,4 @@
-# Routex Body Parser [![npm](https://img.shields.io/npm/v/@routex/body-parser.svg)](https://www.npmjs.com/package/@routex/body-parser) [![Travis CI](https://img.shields.io/travis/com/Cretezy/routex-body-parser.svg)](https://travis-ci.com/Cretezy/routex-body-parser) [![Codecov](https://img.shields.io/codecov/c/github/Cretezy/routex-body-parser.svg)](https://codecov.io/gh/Cretezy/routex-body-parser)
+# Routex Body Parser [![npm](https://img.shields.io/npm/v/@routex/body-parser.svg)](https://www.npmjs.com/package/@routex/body-parser) [![Travis CI](https://img.shields.io/travis/com/Cretezy/routex-body-parser.svg)](https://travis-ci.com/Cretezy/routex-body-parser) [![Codecov](https://img.shields.io/codecov/c/github/Cretezy/routex-body-parser.svg)](https://codecov.io/gh/Cretezy/routex-body-parser) [![Greenkeeper badge](https://badges.greenkeeper.io/Cretezy/routex-body-parser.svg)](https://greenkeeper.io/)
 
 Body parsing for [Routex](https://www.npmjs.com/package/routex).
 
