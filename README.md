@@ -2,9 +2,9 @@
 
 Body parsing for [Routex](https://www.npmjs.com/package/routex).
 
-Based on `body-parser`. Same API.
+[Documentation](https://routex.netlify.com/docs/packages/body-parser) - [GitHub](https://github.com/Cretezy/routex-body-parser)
 
-## Usage
+## Example
 
 Install:
 
@@ -32,7 +32,7 @@ app.get("/", ctx => {
 app.listen(port).then(() => console.log(`Listening on ${port}`));
 ```
 
-The parsed body is available under `ctx.req.body` (same API as `body-parser`).
+The parsed body is available under `ctx.req.body`.
 
 ## Support
 
