@@ -7,7 +7,7 @@ it("Parses JSON", () => {
 
   app.middleware(bodyParser.json());
 
-  app.post("/", ctx => {
+  app.post("/", (ctx) => {
     ctx.body = new JsonBody(ctx.req.body);
   });
 
@@ -24,11 +24,11 @@ it("Parses URL encoded", () => {
 
   app.middleware(
     bodyParser.urlencoded({
-      extended: false
+      extended: false,
     })
   );
 
-  app.post("/", ctx => {
+  app.post("/", (ctx) => {
     ctx.body = new JsonBody(ctx.req.body);
   });
 
@@ -45,7 +45,7 @@ it("Parses raw", () => {
 
   app.middleware(bodyParser.raw());
 
-  app.post("/", ctx => {
+  app.post("/", (ctx) => {
     ctx.body = new TextBody(ctx.req.body.toString());
   });
 
@@ -63,7 +63,7 @@ it("Parses text", () => {
 
   app.middleware(bodyParser.text());
 
-  app.post("/", ctx => {
+  app.post("/", (ctx) => {
     ctx.body = new TextBody(ctx.req.body);
   });
 

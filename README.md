@@ -25,7 +25,7 @@ const app = new Routex();
 
 app.use(bodyParser.json());
 
-app.get("/", ctx => {
+app.get("/", (ctx) => {
   ctx.body = new JsonBody(ctx.req.body);
 });
 
