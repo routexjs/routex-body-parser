@@ -1,7 +1,8 @@
-## Unreleased
+## 0.1.1 - 2020-05-08
 
 - Required Node 10
 - Upgrade development environment
+- Require `routex@^1.0.1` to use `ICtxRequest`
 
 ## 0.1.0 - 2020-04-10
 
