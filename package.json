@@ -89,7 +89,7 @@
     "rimraf": "^3.0.2",
     "routex": "^1.0.1",
     "supertest": "^4.0.2",
-    "ts-jest": "^25.5.0",
+    "ts-jest": "^27.0.3",
     "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
   },
